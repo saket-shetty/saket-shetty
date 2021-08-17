@@ -1,5 +1,8 @@
 ### Hi there 👋
 ## I am **Saket Shetty**.😉
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saket-shetty&label=Profile Views&color=blue&style=plastic" alt="shivanigupta19" /> </p>
+
 You may know me by my 🐦**Flutter** Projects, but I do much more than that!
 
 Have a look at some of my work below!↓↓↓
